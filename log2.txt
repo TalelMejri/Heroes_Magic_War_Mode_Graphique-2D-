@@ -1,0 +1,724 @@
+Tour  1 
+code attaque 1 
+codeattaque >1  1 
+Tour  1 
+code attaque 0 
+cas ou codeatatque==0 
+Tour  2 
+code attaque 1 
+codeattaque >1  1 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie -1 lig,n_enmie 33554434 coloenne_ennmie 6 type_unite_ennmie 6548048 ligne_couranet 4 colonne_corrent 2 
+verifier 0 
+Tour  2 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 0  indice ennemie Tour  1 
+code attaque 1 
+codeattaque >1  1 
+Tour  1 
+code attaque 0 
+cas ou codeatatque==0 
+Tour  2 
+code attaque 1 
+codeattaque >1  1 
+Tour  2 
+code attaque 0 
+cas ou codeatatque==0 
+Tour  3 
+code attaque 1 
+codeattaque >1  1 
+Tour  3 
+code attaque 1012 
+cas ou codeattaque > 1  
+codeattaque : 1012 
+num_unite_attaquante_nouvelle 12  indice ennemie 4 lig,n_enmie 5 coloenne_ennmie 3 type_unite_ennmie 0 ligne_couranet 5 colonne_corrent 2 
+verifier 1 
+indice_enemi_apres_attaque -1 
+codeattaque_contre 102 
+Tour  4 
+code attaque 1 
+codeattaque >1  1 
+Tour  4 
+code attaque 1002 
+cas ou codeattaque > 1  
+codeattaque : 1002 
+num_unite_attaquante_nouvelle 18  indice ennemie 3 lig,n_enmie 6 coloenne_ennmie 2 type_unite_ennmie 0 ligne_couranet 5 colonne_corrent 2 
+verifier 1 
+indice_enemi_apres_attaque 3 
+codeattaque_contre 10002 
+Tour  5 
+code attaque 1 
+codeattaque >1  1 
+Tour  5 
+code attaque 1002 
+cas ou codeattaque > 1  
+codeattaque : 1002 
+num_unite_attaquante_nouvelle 18  indice ennemie 3 lig,n_enmie 6 coloenne_ennmie 2 type_unite_ennmie 0 ligne_couranet 5 colonne_corrent 2 
+verifier 1 
+indice_enemi_apres_attaque 3 
+codeattaque_contre 10002 
+Tour  1 
+code attaque 1 
+codeattaque >1  1 
+Tour  1 
+code attaque 0 
+cas ou codeatatque==0 
+Tour  2 
+code attaque 1 
+codeattaque >1  1 
+Tour  2 
+code attaque 1112 
+cas ou codeattaque > 1  
+codeattaque : 1112 
+num_unite_attaquante_nouvelle 22  indice ennemie 2 lig,n_enmie 4 coloenne_ennmie 1 type_unite_ennmie 1 ligne_couranet 4 colonne_corrent 2 
+verifier 1 
+indice_enemi_apres_attaque 2 
+codeattaque_contre 1 
+Tour  3 
+code attaque 1 
+codeattaque >1  1 
+Tour  3 
+code attaque 11012 
+cas ou codeattaque > 1  
+codeattaque : 11012 
+num_unite_attaquante_nouvelle 12  indice ennemie 4 lig,n_enmie 4 coloenne_ennmie 3 type_unite_ennmie 0 ligne_couranet 4 colonne_corrent 2 
+verifier 1 
+indice_enemi_apres_attaque -1 
+codeattaque_contre 102 
+Tour  4 
+code attaque 1002 
+cas ou codeattaque > 1  
+codeattaque : 1002 
+num_unite_attaquante_nouvelle 18  indice ennemie 3 lig,n_enmie 5 coloenne_ennmie 2 type_unite_ennmie 0 ligne_couranet 4 colonne_corrent 2 
+verifier 1 
+indice_enemi_apres_attaque 3 
+codeattaque_contre 10002 
+Tour  1 
+code attaque 1 
+codeattaque >1  1 
+Tour  1 
+code attaque 0 
+cas ou codeatatque==0 
+codeattaque >1  1 
+cas ou codeatatque==0 
+cas ou codeatatque==0 
+cas ou codeatatque==0 
+cas ou codeatatque==0 
+cas ou codeatatque==0 
